@@ -1,6 +1,6 @@
 # Smart Contract Development Practice: Lottery Contract
 This project is a practice of developing smart contracts. 
-I used the basic ideas from the lottery contract in the Udemy course below by Stephen Grider but instead of using previous versions of solidity in the course and Truffle, I used newer updated versions of solidity and Hardhat. 
+I used the basic ideas from the lottery contract in the Udemy course below by Stephen Grider but instead of using previous versions of solidity in the course and Truffle, I used newer updated versions of solidity and Hardhat. The contract is deployed to the Goerli test network on Ethereum.
 
 Based on Stephen Grider's course "Ethereum and Solidity: The Complete Developer's Guide"
 https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/
